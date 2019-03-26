@@ -1,0 +1,10 @@
+Blueberries:Blue
+Raspberries:Red
+Coffee:Black
+Orange:Orange
+Grass:Green
+Cloud:White
+Eggplant:Purple
+Banana:Yellow
+Dog:Bone
+Cat:Mouse

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz Builder - Word Association</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="enterName">Enter your name</string>
+    <string name="displayName">welcome</string>
+    <string name="btnNext">Next</string>
+    <string name="tvUserName">Hello</string>
+    <string name="tvQuestiontxt">Question 1</string>
+    <string name="btnNextQues">Next</string>
+</resources>
